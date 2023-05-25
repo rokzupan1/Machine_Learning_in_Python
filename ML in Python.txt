@@ -1,0 +1,90 @@
+ --- INPUT--- 
+
+Everything revolving around linear regression
+linear agression not really ML - OPTIMIZATION
+
+RANDOM FORREST is good at detectin not linear regression
+
+
+ONLINE E-COMMERCE COMPANY - STARTUP
+
+* We have two groups of customers: younger and older.
+We need to come up with a solution how to serve both groups of customers.
+What products are we selling? 
+Based on the previous purchases we will predict in which group they are and what they will buy.
+
+Technical things to overcome:
+
+- consent (to use camera), accuracy, inconsistency (in customer preferences), quality of cust.camera,
+
+What is a model?
+simplified representation of reality
+
+* conception
+* test of assumptions
+* training / validation
+* validation
+
+STATISTICAL SIGNIFICATE in Big Data is not that importan
+testing smaller Data
+
+overfitting problem
+
+training is one itteration of the recipe
+
+- choose the model
+- train the model
+- use data that you have
+- specify the dependent variable
+
+java strongly typed which works in Java Virtual Machines
+
+Environments / Virtual Environments
+for preventing libraries being old and unusable
+
+IDE(RStudio, VSC) and Text Editors(notepad)
+
+Browsers(Chrome, Brave)
+
+Notebooks(Jupyter)
+
+
+libraries and frameworks
+
+DATA  --> TRAIN -> DEPLOY (PRODUCTION/TEST)
+MODEL
+
+Python or R
+- Very different beasts
+- Object oriented vs functional
+
+- Libraries (Packages vs Modules)
+
+- Package managers and repositories:
+	
+	- Python (PyPi)
+	pip, anaconda
+	- R(CRAN)
+	install.packages()
+
+TECHNICAL BUILDING BLOCKS
+
+* Data sources
+* Data storage
+* Data processing
+
+:C is your appliance of harddrive
+
+
+AML RISK (ABCD customers) A Lowest Risk D Highest for anti money laundering
+
+
+AML Risk - dependent variable
+other columns (3-9) - independent variables
+
+1. Features == Independent variables describe your data
+2. Parameters 
+3. Hyper-Parameters describe your model defined
+
+In LR no. Parameters and no. Independent variables is connected
+in RandomTrees and NN is not.
