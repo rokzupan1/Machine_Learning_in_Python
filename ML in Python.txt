@@ -1,23 +1,19 @@
- --- INPUT--- 
 
-Everything revolving around linear regression
-linear agression not really ML - OPTIMIZATION
+everything revolving around linear regression
+linear agression not really ML - it is more optimization
+random forrest is good at detectin not linear regression
 
-RANDOM FORREST is good at detectin not linear regression
-
-
+Idea how we would use AI/ML to make money:
 ONLINE E-COMMERCE COMPANY - STARTUP
-
 * We have two groups of customers: younger and older.
 We need to come up with a solution how to serve both groups of customers.
 What products are we selling? 
 Based on the previous purchases we will predict in which group they are and what they will buy.
 
 Technical things to overcome:
-
 - consent (to use camera), accuracy, inconsistency (in customer preferences), quality of cust.camera,
 
-What is a model?
+WHAT IS A MODEL?
 simplified representation of reality
 
 * conception
@@ -25,13 +21,11 @@ simplified representation of reality
 * training / validation
 * validation
 
-STATISTICAL SIGNIFICATE in Big Data is not that importan
-testing smaller Data
+STATISTICAL SIGNIFICATE in Big Data is not that important
 
-overfitting problem
+Overfitting problem
 
-training is one itteration of the recipe
-
+Training is one itteration of the recipe
 - choose the model
 - train the model
 - use data that you have
@@ -43,9 +37,7 @@ Environments / Virtual Environments
 for preventing libraries being old and unusable
 
 IDE(RStudio, VSC) and Text Editors(notepad)
-
 Browsers(Chrome, Brave)
-
 Notebooks(Jupyter)
 
 
