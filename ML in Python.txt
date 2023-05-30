@@ -70,7 +70,6 @@ TECHNICAL BUILDING BLOCKS
 
 AML RISK (ABCD customers) A Lowest Risk D Highest for anti money laundering
 
-
 AML Risk - dependent variable
 other columns (3-9) - independent variables
 
@@ -80,3 +79,6 @@ other columns (3-9) - independent variables
 
 In LR no. Parameters and no. Independent variables is connected
 in RandomTrees and NN is not.
+
+During the workshop I got a better understanding of purpose of Machine Learning.
+
